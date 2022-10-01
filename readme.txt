@@ -6,7 +6,13 @@ This utility for StarCitizen
 4. to stop moving press again  your bind key
 
 
+v0.3
+ADDED:
+resolution 3440x1440
+parameter looting speed
 
+FIXED:
+The character was dressed when transferring loot
 
 v0.2
 
